@@ -1,0 +1,1 @@
+document.write('<a href="http://chick.rdy.jp/bom/sb.cgi?month=201701">&lt;&lt;</a> <span class="calendar_month">February 2017</span> | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 <a href="http://chick.rdy.jp/bom/sb.cgi?day=20170226"><span class="today">26</span></a> 27 28 <a href="http://chick.rdy.jp/bom/sb.cgi?month=201703">&gt;&gt;</a>\n');

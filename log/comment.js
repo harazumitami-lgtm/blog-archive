@@ -1,0 +1,12 @@
+document.write('<ul>\n');
+document.write('<li>小説コーナー更新<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid149.html#comments">原住 民 (04/01)</a></li>\n');
+document.write('<li>小説コーナー更新<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid149.html#comments">ライ (03/30)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">原住 民 (08/30)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">レオ (08/30)</a></li>\n');
+document.write('<li>拍手レス8/20<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid116.html#comments">原住 民 (08/29)</a></li>\n');
+document.write('<li>拍手レス8/20<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid116.html#comments">ちゃーこ (08/29)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">原住 民 (08/27)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">レオ (08/27)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">レオ (08/27)</a></li>\n');
+document.write('<li>拍手レス8/17・8/18<br />⇒ <a href="http://chick.rdy.jp/bom/log/eid115.html#comments">レオ (08/27)</a></li>\n');
+document.write('</ul>\n');

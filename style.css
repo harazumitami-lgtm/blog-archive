@@ -1,0 +1,12 @@
+@import url("lib/resource/ja/style.css");
+
+/* 全体中央寄せ用 */
+body {
+  text-align: left; /* テキスト自体は左揃え */
+}
+
+.container {
+  max-width: 780px;
+  margin: 32px auto;
+  padding: 0 16px;
+}
